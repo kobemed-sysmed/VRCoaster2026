@@ -1,0 +1,12 @@
+# ninja log v5
+9	317	1792511983478181442	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ba8b664331694352
+319	478	1792511983637390549	/Users/eidai/Documents/VRCoaster2026/VRCoasterUnity/VRCoaster/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4z2uz5h4/obj/arm64-v8a/libswappywrapper.so	e1cbae71c5878b5e
+2	1140	1792511984293790505	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e69bd790dfe8f152
+4	1423	1792511984576941857	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	177fd788725264f9
+5	1466	1792511984616580623	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	11468c31e2f2dc34
+1	1467	1792511984624045103	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a671f0c56f27cdd9
+7	1532	1792511984687754595	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	15f1a98c65058e09
+2	1536	1792511984693280039	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cd2ac4191ab0d3f9
+3	1675	1792511984833288989	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	50199ed2e44b0b25
+0	1816	1792511984974007105	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2a1581715f8960ce
+1817	1939	1792511985098028808	/Users/eidai/Documents/VRCoaster2026/VRCoasterUnity/VRCoaster/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4z2uz5h4/obj/arm64-v8a/libgame.so	4d3a6657399eed71
